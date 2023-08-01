@@ -11,7 +11,6 @@ public class GameDTO {
 
     private String imgUrl;
     private String shortDescription;
-
     public GameDTO() {
     }
     public GameDTO(Game entity) {
